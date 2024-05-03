@@ -73,7 +73,7 @@ tifffile==2020.10.1
 torch==1.7.1
 torchvision==0.8.1
 tornado==6.1
-tqdm==4.51.0
+tqdm==4.66.3
 traitlets==5.0.5
 typing-extensions==3.7.4.3
 wcwidth==0.2.5
