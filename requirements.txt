@@ -70,7 +70,7 @@ terminado==0.9.1
 tensorboard==2.4.0
 testpath==0.4.4
 tifffile==2020.10.1
-torch==1.7.1
+torch==2.6.0
 torchvision==0.8.1
 tornado==6.4.1
 tqdm==4.51.0
