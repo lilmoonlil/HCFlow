@@ -34,7 +34,7 @@ matplotlib==3.3.2
 mistune==0.8.4
 natsort==7.0.1
 nbclient==0.5.1
-nbconvert==6.0.7
+nbconvert==7.17.0
 nbformat==5.0.8
 nest-asyncio==1.4.2
 networkx==2.5
@@ -70,7 +70,7 @@ terminado==0.9.1
 tensorboard==2.4.0
 testpath==0.4.4
 tifffile==2020.10.1
-torch==1.7.1
+torch==2.10.0
 torchvision==0.8.1
 tornado==6.4.1
 tqdm==4.51.0
@@ -80,3 +80,5 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 zipp==3.19.1
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
